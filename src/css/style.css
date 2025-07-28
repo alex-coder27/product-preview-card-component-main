@@ -79,6 +79,11 @@
     border-radius: 0.8rem; 
 }
 
+.product-card__add-to-cart-button:hover,
+.product-card__add-to-cart-button:focus {
+    background-color: var(--color-primary-2);
+}
+
 .button__icon {
     height: 1.6rem;
     width: 1.6rem;
