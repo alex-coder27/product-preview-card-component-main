@@ -13,7 +13,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- **URL do Site ao Vivo:** [Adicione o URL do seu site ao vivo aqui](https://alex-coder27.github.io/product-preview-card-component-main)
+- **URL do Site ao Vivo:** [https://alex-coder27.github.io/product-preview-card-component-main](https://alex-coder27.github.io/product-preview-card-component-main)
 
 ### Construído com
 
