@@ -1,0 +1,26 @@
+@media(max-width: 576px) {
+    .product-card {
+        width: auto;
+        height: auto;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 3rem 1rem;
+    }
+
+    .product-card__image-container {
+        width: 100%;
+    }
+
+    .product-card__details {
+        width: 100%;
+    }
+
+    .product-card__title {
+        font-size: 2.4rem;
+    }
+    .product-card__description {
+        margin: 0;
+    }
+    
+}
