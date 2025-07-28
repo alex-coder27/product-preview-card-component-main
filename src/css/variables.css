@@ -1,0 +1,15 @@
+:root {
+    --color-primary-1: hsl(158, 36%, 37%);
+    --color-primary-2: hsl(158, 42%, 18%);
+
+    --color-neutral-1: hsl(212, 21%, 14%);
+    --color-neutral-2: hsl(228, 12%, 48%);
+    --color-neutral-3: hsl(30, 38%, 92%);
+    --color-neutral-4: hsl(0, 0%, 100%);
+
+    --font-family-1: 'Montserrat';
+    --font-family-2: 'Fraunces';
+
+    --font-weight-semibold: 500;
+    --font-weight-bold: 700;
+}

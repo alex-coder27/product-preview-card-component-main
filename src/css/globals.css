@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,100..900,0..100,0..1;1,9..144,100..900,0..100,0..1&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: var(--font-family-1);
+    font-size: 1.4rem;
+    font-weight: var(--font-weight-semibold);
+    background-color: var(--color-neutral-3);
+    color: var( --color-neutral-1);
+}
+
+.page-wrapper {
+    max-width: 144rem;
+    margin: 0 auto;
+}
