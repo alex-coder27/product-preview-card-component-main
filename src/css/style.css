@@ -39,13 +39,13 @@
     font-weight: var(--font-weight-bold);
     line-height: 0.9;
     letter-spacing: 0.1rem;
-    margin-top: 0.5rem;
+    margin-block-start: 0.5rem;
 }
 
 .product-card__description {
     color: var(--color-neutral-2);
     line-height: 1.6;
-    margin-top: 1.3rem;
+    margin-block-start: 1.3rem;
 }
 
 .product-card__pricing {
@@ -92,9 +92,10 @@
 .attribution {
     font-size: 11px;
     text-align: center;
-    margin-top: 2rem;
+    margin-block-start: 2rem;
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
+    color: var(--color-link-footer);
+    text-decoration: underline;
 }
